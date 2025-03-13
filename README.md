@@ -1,10 +1,10 @@
 # How to use
 Execute jar file using the command with an argument
 
-## Example: 
+## Example
 java -jar FibonacciNumbers.jar 20
 
-## Output:
+## Output
 6765
 
 
